@@ -7,7 +7,7 @@ Daily notes from my software engineering journey—captioner turned coder.
 🎯 Goal: Full-stack portfolio + QA testing skills
 
 ---
-
+- [October 2025](./October-2025.md)
 ## Day 1
 - Uploaded resume to GitHub
 - Fixed link formatting and pinned repo
