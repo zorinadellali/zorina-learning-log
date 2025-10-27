@@ -13,3 +13,6 @@ Daily notes from my software engineering journey—captioner turned coder.
 - Fixed link formatting and pinned repo
 - Learned about README structure and badges
 - Started freeCodeCamp’s Responsive Web Design certification
+
+  ## Day 2
+  Published my first Hello World repo with a celebratory footer badge. Captioner turned coder officially says hello to the world.
