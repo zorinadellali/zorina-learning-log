@@ -20,3 +20,5 @@ Daily notes from my software engineering journey—captioner turned coder.
  ## Day 3
 - ☕ Early start, ready to tackle new chapters in freeCodeCamp. Let’s see what unfolds!
 
+## Day 11
+Awarded for completing the TELUS test with sharp commentary, confident mismatch detection, and QA-level precision.
