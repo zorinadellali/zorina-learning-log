@@ -21,4 +21,14 @@ Daily notes from my software engineering journey—captioner turned coder.
 - ☕ Early start, ready to tackle new chapters in freeCodeCamp. Let’s see what unfolds!
 
 ## Day 11
-Awarded for completing the TELUS test with sharp commentary, confident mismatch detection, and QA-level precision.
+
+🗓️ Day 11 – TELUS Test Completed
+✅ Finished the LLM Rating Contributor Test with full commentary
+
+✅ Caught all execution mismatches and false confirmations
+
+✅ Gained confidence in reading execution traces and evaluating AI responses
+
+🧠 Skill Added: LLM Response Evaluation & Execution Trace Analysis
+
+🏅 Badge Earned: LLM Logic Buster – for spotting subtle errors and rating like a QA pro.
